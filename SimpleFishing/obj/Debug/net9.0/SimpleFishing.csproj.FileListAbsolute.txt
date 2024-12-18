@@ -1,0 +1,14 @@
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/SimpleFishing.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/SimpleFishing.AssemblyInfoInputs.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/SimpleFishing.AssemblyInfo.cs
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/SimpleFishing.csproj.CoreCompileInputs.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/bin/Debug/net9.0/SimpleFishing
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/bin/Debug/net9.0/SimpleFishing.deps.json
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/bin/Debug/net9.0/SimpleFishing.runtimeconfig.json
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/bin/Debug/net9.0/SimpleFishing.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/bin/Debug/net9.0/SimpleFishing.pdb
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/SimpleFishing.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/refint/SimpleFishing.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/SimpleFishing.pdb
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/SimpleFishing.genruntimeconfig.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/SimpleFishing/obj/Debug/net9.0/ref/SimpleFishing.dll
